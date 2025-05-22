@@ -18,4 +18,5 @@ A simple Streamlit app that allows users to upload a PDF and extract its text co
 git clone <repo-url>
 cd pdf_text_extractor
 pip install -r requirements.txt
-streamlit run app.py
+streamlit python -m streamlit run app.py
+
